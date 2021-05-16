@@ -1,0 +1,25 @@
+package test;
+
+public class Loops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int index = 5;
+		
+		/*while(index>0)
+		{
+			System.out.println("Loop : " + index);
+			index--;
+		}*/
+		
+		
+		while(index>0)
+		{
+			System.out.println("Loops : " + index);
+			index = index-1;
+		}
+
+	}
+
+}

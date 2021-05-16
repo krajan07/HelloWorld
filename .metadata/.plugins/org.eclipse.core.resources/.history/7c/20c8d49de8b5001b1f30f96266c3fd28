@@ -1,0 +1,7 @@
+package oopsConcept;
+
+public class RunnerClass {
+
+	ClassA object1 = new ClassA();
+	
+}

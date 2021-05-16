@@ -1,0 +1,21 @@
+package test;
+
+import java.util.Scanner;
+
+public class EvenNumCheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int input;
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Please enter a number ");
+		input = scan.nextint();
+		
+		
+		
+
+	}
+
+}
