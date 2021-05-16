@@ -8,7 +8,7 @@ public class PrimeNumCheck {
 		// TODO Auto-generated method stub
 		
 		int input;
-		
+		//Getting user input
 		try (Scanner scan = new Scanner(System.in)) {
 			System.out.println("Please enter a number ");
 			input = scan.nextInt();
