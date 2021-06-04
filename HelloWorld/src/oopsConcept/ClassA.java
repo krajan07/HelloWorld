@@ -25,6 +25,8 @@ public class ClassA {
 		System.out.println("Name of Employee: " + EName);
 		System.out.println("Salary of Employee " + Salary);
 		System.out.println("Name of Oragnaisation: " + OrgName);
-	}
+	} 
+	
+	
 	
 }

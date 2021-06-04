@@ -27,10 +27,16 @@ public class RunnerClass {
 			ClassC Obj2 = new ClassC();
 			Obj2.run(); */
 			
-		MethodOverloading obj3 = new MethodOverloading();
+		/* MethodOverloading obj3 = new MethodOverloading();
 		
 		obj3.add(1,2);
-		obj3.add(1, 8.4);
+		obj3.add(1, 8.4);*/
+		
+		MethodOverrideChild Obj4 = new MethodOverrideChild();
+		Obj4.display();
+		
+		MethodOverrideParent Obj5 = new MethodOverrideParent();
+		Obj5.display();
 		
 			
 		}
