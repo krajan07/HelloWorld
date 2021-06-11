@@ -53,6 +53,7 @@ public class CollectionsExample {
 		
 		System.out.println("Stack Data With Poped & Pushed : " + sList);
 		
+		//Some Changes in the local-java
 	}
 
 }
