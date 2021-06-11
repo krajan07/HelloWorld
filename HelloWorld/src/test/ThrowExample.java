@@ -6,7 +6,7 @@ public class ThrowExample {
 		// TODO Auto-generated method stub
 		
 		try {
-		int age = 25;
+		int age = 2;
 		
 		if(age <18) {
 			throw new ArithmeticException("not valid age");
